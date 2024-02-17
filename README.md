@@ -23,7 +23,7 @@ To Develop a python program to Plot a time series data (population/ market price
 
 
 # OUTPUT:
-![![alt text](image.png)]
+![alt text](image.png)]
 
 
 
